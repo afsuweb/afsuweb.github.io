@@ -1,0 +1,51 @@
+#banner {
+
+width: 100% ;
+height: 100px ;
+background-color: black;
+float :top; 
+color: white;
+text-align: justify;
+font-weight: bold;
+}
+
+#intro1 {
+
+width: 20% ;
+height: 300px ;
+float :left; 
+float :top ;
+text-align:center;
+background-color:#DDDDDD;
+
+ 
+}
+
+#picture {
+
+width: 39% ;
+height: 300px ;
+float :left;
+float: top; 
+}
+
+#intro2 {
+
+width: 35% ;
+height: 300px ;
+float :left; 
+float: top;
+text-align:center;
+font-size: 600%;
+
+}
+
+#work {
+
+width: 100% ;
+height:140px ;
+float:left;
+float: top ;
+background-color :#9B9DB6;
+}
+
